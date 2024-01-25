@@ -116,6 +116,12 @@ The proposed tokenization of AI models and computational resources leverages the
 blockchain, including immutability, transparency, and decentralization. By establishing a standardized framework for
 decentralized AI markets, we aim to foster innovation, collaboration, and efficiency within the AI community.
 
+Community-Powered IP: Each DPT, with its unique digital identity and specialized functionality, becomes a
+community-powered intellectual property.
+
+Crowdsourcing: DPTs leverage crowdsourcing for creativity, governance, datasets, AI Models, and compute resources,
+unlocking new business models and growth opportunities.
+
 ## Security Considerations
 
 <!--
