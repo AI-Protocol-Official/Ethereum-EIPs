@@ -1,7 +1,7 @@
 ---
 title: Decentralized Pre-Trained Transformers (DPT) with Embedded Liquidity
 description: Decentralized AI Market with Tokenized Models and Computational Resources
-author: <a comma separated list of the author's or authors' name + GitHub username (in parenthesis), or name and email (in angle brackets).  Example, FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+author: AI Protocol <gm@aiprotocol.info>
 discussions-to: <URL>
 status: Draft
 type: Standards Track
