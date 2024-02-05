@@ -1,6 +1,6 @@
 ---
 title: Decentralized Pre-Trained Transformers (DPT) with Embedded Liquidity
-description: Decentralized AI Market with Tokenized Models and Computational Resources
+description: Protocol for Trustless Creative Collaboration with Tokenized AI Models and Computational Resources
 author: AI Protocol <gm@aiprotocol.info>
 discussions-to: <URL>
 status: Draft
@@ -18,10 +18,11 @@ requires: EIP 1671
   TODO: Remove this comment before submitting
 -->
 
-This Ethereum Improvement Proposal (EIP) introduces a framework for establishing a transparent and decentralized market
-for AI services. The proposal suggests the tokenization of AI models as Non-Fungible Tokens (NFTs) named Decentralized
+This Ethereum Improvement Proposal (EIP) introduces a framework for establishing a trustless collaboration among
+computational resource providers, AI model providers, and AI consumers for developing, training, rendering, and trading
+AI services. The proposal suggests the tokenization of AI models as Non-Fungible Tokens (NFTs) named Decentralized
 Pre-Trained Transformers (DPTs). Additionally, computational resources are tokenized as NFTs called Personality Pods,
-which can launch Hives—helper smart contracts that invite DPT owners to utilize the resources provided. Each DPT has a
+which can launch Hives—helper smart contracts inviting DPT owners to utilize the resources provided. Each DPT has a
 Bonding Curve helper contract attached, and the proposed framework aims to create a dynamic and liquid AI market.
 
 ## Motivation
@@ -36,35 +37,21 @@ Bonding Curve helper contract attached, and the proposed framework aims to creat
   TODO: Remove this comment before submitting
 -->
 
-The existing AI market lacks transparency and decentralization, hindering the efficient utilization of computational
-resources and the fair trading of AI models. By introducing tokenization of AI models and computational resources on the
-Ethereum blockchain, we aim to address the following issues:
+The existing AI collaboration landscape lacks trustless and transparent mechanisms for developing and trading AI
+services. By introducing tokenization of AI models and computational resources on the Ethereum blockchain, we aim to
+address the following issues:
 
-1.  Lack of Transparency: Current AI markets often lack transparency in pricing, model performance, and resource
-    utilization. Tokenization enables a transparent and immutable ledger of AI models and computational resources.
+1. Trustless Collaboration: Current AI collaboration models often rely on centralized intermediaries, leading to trust
+   issues. Tokenization enables a trustless and transparent collaboration framework, fostering innovation and fair
+   collaboration.
 
-2.  Decentralization: The proposed framework leverages the decentralized nature of blockchain technology,
-    eliminating the need for centralized intermediaries and providing a trustless environment for AI service providers
-    and consumers.
+2. Decentralization: The proposed framework leverages the decentralized nature of blockchain technology, eliminating
+   the need for centralized control and providing a trustless environment for AI service providers and consumers.
 
-3.  Liquidity: The introduction of a bonding curve contract for DPTs encourages liquidity by allowing users to
-    seamlessly buy and sell AI models, contributing to a more dynamic and efficient market.
-
-The existing AI market lacks transparency and decentralization, hindering the efficient utilization of computational
-resources and the fair trading of AI models. By introducing tokenization of AI models and computational resources on the
-Ethereum blockchain, we aim to address the following issues:
-
-1.  Lack of Transparency: Current AI markets often lack transparency in pricing, model performance, and resource
-    utilization. Tokenization enables a transparent and immutable ledger of AI models and computational resources.
-
-2.  Decentralization: The proposed framework leverages the decentralized nature of blockchain technology,
-    eliminating the need for centralized intermediaries and providing a trustless environment for AI service providers
-    and consumers.
-
-3.  Liquidity and Dynamic AI Models: The introduction of a bonding curve contract for DPTs, coupled with Personality
-    Pods launching Hives, encourages liquidity by allowing users to seamlessly buy and sell AI models. Key holders
-    interacting with AI models create key demand, particularly for interesting and successful models, resulting in
-    backed liquidity that helps AI models evolve.s
+3. Liquidity and Dynamic AI Models: The introduction of a bonding curve contract for DPTs, coupled with Personality
+   Pods launching Hives, encourages liquidity by allowing users to seamlessly develop, train, and trade AI models. Key
+   holders interacting with AI models create key demand, particularly for interesting and successful models, resulting
+   in backed liquidity that helps AI models evolve.
 
 ## Specification
 
@@ -77,8 +64,6 @@ Ethereum blockchain, we aim to address the following issues:
 -->
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 and RFC 8174.
-
-Specification
 
 1. Decentralized Pre-Trained Transformers (DPTs):
     - DPTs are represented as NFTs on the Ethereum blockchain.
@@ -99,8 +84,8 @@ Specification
 
 4. Auxiliary Helper Smart Contracts:
     - Additional smart contracts may be introduced to handle governance, dispute resolution, and other aspects of the
-      decentralized AI market.
-    - Smart contracts should be designed to ensure fairness, security, and efficiency in the AI service ecosystem.
+      trustless AI collaboration framework.
+    - Smart contracts should be designed to ensure transparency, security, and efficiency in the AI service ecosystem.
 
 ## Rationale
 
@@ -114,7 +99,7 @@ Specification
 
 The proposed tokenization of AI models and computational resources leverages the unique features of the Ethereum
 blockchain, including immutability, transparency, and decentralization. By establishing a standardized framework for
-decentralized AI markets, we aim to foster innovation, collaboration, and efficiency within the AI community.
+trustless AI collaboration, we aim to foster innovation, fair collaboration, and efficiency within the AI community.
 
 Community-Powered IP: Each DPT, with its unique digital identity and specialized functionality, becomes a
 community-powered intellectual property.
@@ -138,11 +123,11 @@ unlocking new business models and growth opportunities.
 2.  Privacy Concerns: The metadata associated with DPTs should consider privacy concerns, and appropriate measures
     should be taken to protect sensitive information.
 
-3.  Governance and Dispute Resolution: Mechanisms for governance and dispute resolution in the decentralized AI market
-    should be carefully designed to maintain fairness and prevent malicious activities.
+3.  Governance and Dispute Resolution: Mechanisms for governance and dispute resolution in the trustless AI
+    collaboration framework should be carefully designed to maintain fairness and prevent malicious activities.
 
 4.  Compliance: The proposal should comply with relevant legal and regulatory frameworks to ensure the legitimacy of AI
-    services traded on the platform.
+    services traded and collaborated upon within the framework.
 
 This proposal is a draft, and further community feedback and collaboration are encouraged to refine and improve the
 specifications outlined herein.
